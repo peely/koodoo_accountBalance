@@ -1,0 +1,42 @@
+[
+    {
+        "monthNumber": 0,
+        "account": {
+            "balance": {
+                "amount": 0
+            }
+        }
+    },
+    {
+        "monthNumber": 1,
+        "account": {
+            "balance": {
+                "amount": 100
+            }
+        }
+    },
+    {
+        "monthNumber": 2,
+        "account": {
+            "balance": {
+                "amount": 200
+            }
+        }
+    },
+    {
+        "monthNumber": 4,
+        "account": {
+            "balance": {
+                "amount": 400
+            }
+        }
+    },
+    {
+        "monthNumber": 5,
+        "account": {
+            "balance": {
+                "amount": 500
+            }
+        }
+    }
+]

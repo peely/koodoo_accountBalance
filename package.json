@@ -1,0 +1,23 @@
+{
+  "name": "koodoo_accountbalance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peely/koodoo_accountBalance.git"
+  },
+  "author": "Matthew Peel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peely/koodoo_accountBalance/issues"
+  },
+  "homepage": "https://github.com/peely/koodoo_accountBalance#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
